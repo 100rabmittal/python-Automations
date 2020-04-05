@@ -45,7 +45,7 @@ class blog:
     posts = svc.posts()
     body = {
         "kind": "blogger#post",
-        "id": "32237367040152865"+str(idno),
+        "id": "3223736704"+str(idno),
         "title": "new try",
         "content":data
         }
