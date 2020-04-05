@@ -124,3 +124,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+#myfiles
+client_secrets.json
+blogger.dat
